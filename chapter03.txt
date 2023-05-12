@@ -1,1 +1,3 @@
 This is chapter 03 of my great novel.
+
+I'm adding some more text at line 3.
